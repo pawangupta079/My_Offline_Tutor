@@ -15,7 +15,7 @@ cd mytutor-frontend
 npm install react-router-dom
 npm install tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-
+```
 
 
 Yes 👍 after you **download `setup.md`**, here’s how you use it locally step by step:
