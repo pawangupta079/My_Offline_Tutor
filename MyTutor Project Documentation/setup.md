@@ -1,4 +1,3 @@
-setup_md = """
 # MyTutor Frontend Setup Guide
 
 This document explains how to set up the **MyTutor Frontend** project using **React + Vite + Tailwind CSS + React Router**.
