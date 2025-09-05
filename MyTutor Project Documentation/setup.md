@@ -77,4 +77,3 @@ Yes 👍 after you **download `setup.md`**, here’s how you use it locally step
 👉 Basically, the `setup.md` acts like your **step-by-step manual**.
 You just need to **follow it line by line** on your local machine.
 
-Do you want me to now prepare **starter code templates for all pages and components** (so you can just copy-paste them into your project and see the UI working immediately)?
