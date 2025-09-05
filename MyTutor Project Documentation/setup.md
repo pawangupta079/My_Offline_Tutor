@@ -112,9 +112,5 @@ My_Offline_Tutor/
 
 ✅ That’s it! Now your **My\_Offline\_Tutor frontend** is ready to run. 🚀
 
-```
 
----
-
-Would you like me to **save this as `setup.md` file** and give you a downloadable link so you can directly put it into your project?
 ```
