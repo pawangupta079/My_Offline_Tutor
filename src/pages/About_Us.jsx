@@ -34,7 +34,7 @@ const About_Us = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full mb-4"
               />
-              <h3 className="text-xl font-bold text-gray-800">Pawan Kumar Gupta</h3>
+              <h3 className="text-xl font-bold text-gray-800">xyx</h3>
               <p className="text-gray-600">CEO & Founder</p>
             </div>
             {/* Team Member 2 */}
@@ -44,7 +44,7 @@ const About_Us = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full mb-4"
               />
-              <h3 className="text-xl font-bold text-gray-800">Suraj Saxena</h3>
+              <h3 className="text-xl font-bold text-gray-800">xyz</h3>
               <p className="text-gray-600">Head of Operations</p>
             </div>
             {/* Team Member 3 */}
@@ -54,7 +54,7 @@ const About_Us = () => {
                 alt="Team Member"
                 className="w-32 h-32 mx-auto rounded-full mb-4"
               />
-              <h3 className="text-xl font-bold text-gray-800">Pratyush Ojha</h3>
+              <h3 className="text-xl font-bold text-gray-800">Xyz</h3>
               <p className="text-gray-600">Lead Developer</p>
             </div>
           </div>
